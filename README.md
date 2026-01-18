@@ -1,6 +1,6 @@
 <div align="center">
 
-![nixpt Hero](https://github.com/nixpt/crush/blob/main/crushed-book/src/assets/profile_hero.png?raw=true)
+![nixpt Hero](https://github.com/nixpt/crushed-book/blob/main/src/assets/profile_hero.png?raw=true)
 
 # 💠 nixpt 💠
 **AI Architect | Secure Runtime Engineer | Agent-Native Pioneer**
